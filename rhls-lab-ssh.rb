@@ -5,7 +5,7 @@ class RhlsLabSsh < Formula
   desc "Util script for configuring and connecting to an RHLS lab via SSH"
   homepage "https://github.com/Dairdevil/rhls-lab-ssh"
   url "https://github.com/Dairdevil/rhls-lab-ssh/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "bd5d8b46ab5a6d2d27094d4661af882284bc621baf268aa8a3f258e5fdb3a002"
+  sha256 "3d9f3bed42e0e959932a881cf0699304beb86a40be45c45aaa8914c49cfddd94"
   license ""
 
   depends_on "bash" => :run
