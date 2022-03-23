@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class RHLSLabSSH < Formula
+class RhlsLabSsh < Formula
   desc "Util script for configuring and connecting to an RHLS lab via SSH"
   homepage "https://github.com/Dairdevil/rhls-lab-ssh"
   url "https://github.com/Dairdevil/rhls-lab-ssh/archive/refs/tags/v0.2.0.tar.gz"
